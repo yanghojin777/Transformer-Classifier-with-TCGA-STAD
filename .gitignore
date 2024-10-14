@@ -1,0 +1,4 @@
+# ignore all files inside Model_save folder
+Model_save/
+# ignore all files inside Redundant folder
+Redundant_Intermediate_Outputs/
