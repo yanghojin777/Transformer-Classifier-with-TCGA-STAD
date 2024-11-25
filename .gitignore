@@ -2,3 +2,5 @@
 Model_save/
 # ignore all files inside Redundant folder
 Redundant_Intermediate_Outputs/
+# ignore all files inside exam_outputs folder
+exam_outputs/
