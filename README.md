@@ -56,11 +56,11 @@
 
 ---------------------------------------------------------------------------------------------------
 
-### Conda env export (환경을 복사해 주는 사람 쪽 작업)
+### 환경을 복사해 주는 사람 쪽 작업
 
 conda env export > environment4.yaml
 
-### conda create env from yaml file (환경을 받는 사람 쪽 작업)
+### 환경을 받는 사람 쪽 작업
 
 conda env create -n tc --file environment4.yaml (아직 아무 가상환경도 안 만들었을 때)
 
